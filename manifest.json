@@ -1,6 +1,6 @@
 {
-  "name": "Copenhagen",
-  "author": "Zendesk",
+  "name": "QIII Copenhagen",
+  "author": "Questar III BOCES",
   "version": "2.7.2",
   "api_version": 2,
   "default_locale": "en-us",
@@ -13,7 +13,7 @@
           "type": "color",
           "description": "brand_color_description",
           "label": "brand_color_label",
-          "value": "#0072EF"
+          "value": "#990000"
         },
         {
           "identifier": "brand_text_color",
@@ -34,7 +34,7 @@
           "type": "color",
           "description": "link_color_description",
           "label": "link_color_label",
-          "value": "#1F73B7"
+          "value": "#E69D25"
         },
         {
           "identifier": "background_color",
