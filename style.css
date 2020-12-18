@@ -1301,7 +1301,7 @@ ul {
   padding: 20px 0;
 }
 
-.recent-activity-item-parent {
+.recent-activity-item-link {
   font-size: 16px;
 }
 
@@ -1319,7 +1319,7 @@ ul {
   }
 }
 
-.recent-activity-item-link {
+.recent-activity-item-parent {
   font-size: 14px;
   font-weight: 300;
 }
